@@ -1,0 +1,82 @@
+﻿  dllmain.cpp
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\structs.h(100,1): warning C4267: "=": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55840): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55849): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55858): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55867): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55876): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55885): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55894): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55909): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55918): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55927): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55936): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55945): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55954): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55964): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55973): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55983): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55992): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56002): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56011): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56020): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56030): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56039): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56303): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56312): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56322): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56331): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56279): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56288): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\main.h(179,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\main.h(240,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\present.h(163,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\present.h(166,136): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\present.h(166,120): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\present.h(166,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\present.h(168,73): warning C4244: "Argument": Konvertierung von "Ret" in "float", möglicher Datenverlust
+          with
+          [
+              Ret=int
+          ]
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\present.h(168,35): warning C4244: "Argument": Konvertierung von "Ret" in "float", möglicher Datenverlust
+          with
+          [
+              Ret=int
+          ]
+  Code wird generiert.
+C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\OpenSource_FN\hooking.h(28): warning C4715: "hooking::processeventhooking": Nicht alle Codepfade geben einen Wert zurück.
+  382 of 1433 functions (26.7%) were compiled, the rest were copied from previous compilation.
+    368 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  OpenSource_FN.vcxproj -> C:\Users\sucht\Desktop\Interstellar-Open-Source\Interstellar-Open-Source-Free-master\x64\Release\OpenSource_FN.dll
+  raped rtti to prevent some possible detection vectors for eac/be!
